@@ -1,0 +1,11 @@
+[package]
+name = "simple_state_machine"
+version = "0.1.0"
+edition = "2021"
+license = "GPL-3.0"
+description = "A simple definition of a state machine"
+documentation = "https://docs.rs/simple_state_machine"
+repository = "https://github.com/Yooser0/simple_state_machine/"
+readme = "README.md"
+
+[dependencies]
